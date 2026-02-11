@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "396846225585",
+    "firebase_url": "https://rkx-team-rage-10ab1-default-rtdb.firebaseio.com",
+    "project_id": "rkx-team-rage-10ab1",
+    "storage_bucket": "rkx-team-rage-10ab1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:396846225585:android:0180646c9a308183d1aa90",
+        "android_client_info": {
+          "package_name": "com.JHX"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBb6rxx0oJHIEpOu1iKWnDLOpfCMr5svSE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:396846225585:android:29ba8d4f5545c8efd1aa90",
+        "android_client_info": {
+          "package_name": "notificationuser.com"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBb6rxx0oJHIEpOu1iKWnDLOpfCMr5svSE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
